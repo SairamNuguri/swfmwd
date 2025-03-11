@@ -1,0 +1,6 @@
+com\example\swfwmd_demo\Address.class
+com\example\swfwmd_demo\PermitController.class
+com\example\swfwmd_demo\SwfwmdDemoApplication.class
+com\example\swfwmd_demo\Permit.class
+com\example\swfwmd_demo\PermitRepository.class
+com\example\swfwmd_demo\UspsApiClient.class
